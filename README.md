@@ -18,4 +18,4 @@ Requirements:
 4. The application should send a warning email to a dedicated email address when invalid parameters are submitted. The parameters should be included in a human format :wink:
 5. The app should be able to restructure the information in another way, to be used by a different company.
 
-Don’t worry about implementing everything during the short time we have. This task is here so we can learn how you think and solve problems, not measure your LOC/s ;)
+Don’t worry about implementing everything during the short time we have. This task is here so we can learn how you think and solve problems, not measure your LOC/s :wink:
