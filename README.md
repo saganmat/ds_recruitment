@@ -19,5 +19,5 @@ Requirements:
 5. The app should be able to restructure the information in another way, to be used by a different company.
 
 
-You can find the lead data [here](https://gist.github.com/tokhi/c19e6c17e82dc6ecae68ae929649c19e)
+You can find the lead data [here](https://gist.github.com/saganmat/8ace544c464cc2eb6a2a304839f71ae5)
 Don’t worry about implementing everything during the short time we have. This task is here so we can learn how you think and solve problems, not measure your LOC/s :wink:
