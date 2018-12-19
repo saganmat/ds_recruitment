@@ -1,7 +1,9 @@
+Recruitment project
+===========
 Our company’s business model is about distributing leads (information about a job that needs to be done) to various companies all around Germany who could be interested in them.
 In addition to leads we acquire ourselves, we also buy / exchange leads with allied businesses.
 In order to do this, our applications are constantly sending and receiving information to and from various API endpoints. Since a lead’s structure varies between applications, a lot of data mapping and remapping happens all the time.
-YOUR OBJECTIVE:
+*YOUR OBJECTIVE:*
 Implement a service that will receive lead information in a JSON format and produce a restructured JSON output that can be sent to another app.
 
 Requirements:
